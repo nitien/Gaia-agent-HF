@@ -1,6 +1,8 @@
-# LangGraph Agent Project
+# GAIA LangGraph Agent Project For HuggingFace Agent course Unit-4.
 
 This project provides a basic structure for building agents using LangGraph.
+It fetches 20 questions from GAIA-HF site , the agent processes the questions in steps , and provides the answer.
+
 
 ## Project Structure
 

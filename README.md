@@ -2,7 +2,7 @@
 
 This project provides a basic structure for building agents using LangGraph.
 It fetches 20 questions from GAIA-HF site , the agent processes the questions in steps , and provides the answer.
-
+(The certificate received from HugginFace is also uploaded here "certificate.pdf" ) 
 
 ## Project Structure
 
